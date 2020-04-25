@@ -1,5 +1,6 @@
 name: BanItemForNukkit
-version: 0.1-beta
+version: 0.2-beta
 author: eru_java
 main: me.eru.nukkit.banitem.BanItem
+api: ["1.0.0"]
 description: configからいじれます。
