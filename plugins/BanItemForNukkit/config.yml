@@ -1,7 +1,0 @@
-ignoreOp: true #権限者は除外するか
-
-place: #おけないブロック (BlockID)
-  - 1
-
-held: #持てないアイテム (ID)
-  - 1
